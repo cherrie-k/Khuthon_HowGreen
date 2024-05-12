@@ -57,23 +57,23 @@ KHUTHON 2024 - 우수상 수상 🏆
 소비자들에게 제품과 관련된 투명한 친환경 정보를 제공함으로서 **녹색 소비**에 도움을 줌.
 
 
-1️⃣  상품 검색
+1️⃣   상품 검색
    - 상품, 기업 정보 입력
      
-2️⃣  입력 정보를 토대로 기업 정보 크롤링
+2️⃣   입력 정보를 토대로 기업 정보 크롤링
    - 공공기관, 이커머스, 온라인 뉴스에서 정보 수집
      
-3️⃣  내부 알고리즘과 AI를 통한 기업 정보 분석
+3️⃣   내부 알고리즘과 AI를 통한 기업 정보 분석
 
-4️⃣  상품, 기업 정보 반환
+4️⃣   상품, 기업 정보 반환
    - 상품의 친환경 인증 여부, 기업의 ESG 경영 지표 반환
    - 기업 관련 기사를 요약하여 링크와 함께 제공
    - 상품 상세 페이지 내 정보를 요약하여 제공
      
-5️⃣  상품 리스트 적재와 검색
+5️⃣   상품 리스트 적재와 검색
    - 이미 검색된 상품들은 데이터베이스에 저장되어 앱에 기록되고, 언제든 다시 불러올 수 있음
      
-6️⃣  쉽고 빠른 친환경 정보 제공을 통해 소비자의 녹색 소비 도움
+6️⃣   쉽고 빠른 친환경 정보 제공을 통해 소비자의 녹색 소비 도움
 
 
 
@@ -87,7 +87,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 <br>
 
 ## 📸 프로젝트 화면
-**메인 화면** - 상품 검색, 이전 검색 상품 조회
+**🔹 메인 화면** - 상품 검색, 이전 검색 상품 조회
 <br>
 <p align="center">
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/d4359e20-06b0-4e1a-8792-debeb3e390ee" width="235px" height="543px"></img>
@@ -95,7 +95,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/ab74b02f-f647-4691-95db-818fd00b4b8c" width="235px" height="543px"></img>
 </p>
 
-**로딩 화면** - 데이터 처리 중 로딩 인디케이터와 esg 관련 정보 표시
+**🔹 로딩 화면** - 데이터 처리 중 로딩 인디케이터와 esg 관련 정보 표시
 <br>
 <p align="center">
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/8d278dff-a85b-494e-9d41-f22a66d5b778" width="235px" height="543px"></img>
@@ -103,7 +103,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/0cada277-56b1-40ca-b0be-59d3beecb1e3" width="235px" height="543px"></img>
 </p>
 
-**결과 화면 1** - 상품 분석 결과에 따라 화면 표시
+**🔹 결과 화면 1** - 상품 분석 결과에 따라 화면 표시
 <br>
 <p align="center">
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/7bba687a-6f43-4e6a-86af-fb57abd27055" width="235px" height="543px"></img>
@@ -111,7 +111,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/c5d0913e-9c09-44c9-b389-16c6eb8c6966" width="235px" height="543px"></img>
 </p>
 
-**결과 화면 2** - 분석한 제품의 정보와 관련 기사 제시
+**🔹 결과 화면 2** - 분석한 제품의 정보와 관련 기사 제시
 <br>
 <p align="center">
 <img src="https://github.com/gitwub5/FastAPI_Server/assets/132264450/fdd487ec-3a16-414b-b2a8-0e242ccd11f8" width="235px" height="543px"></img>
@@ -122,6 +122,10 @@ KHUTHON 2024 - 우수상 수상 🏆
 </br>
 
 ## 🫂 프로젝트 참여
+<p align="center">
+  
 |<img src="https://avatars.githubusercontent.com/u/80851202?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/132264450?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/52268188?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/52253037?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Cherrie Kim [FE]<br/>[@cherrie-k](https://github.com/cherrie-k)|GeonWoo Shin [BE, AI]<br/>[@gitwub5](https://github.com/gitwub5)|Sunwu Park [BE, AI]<br/>[@sunwupark](https://github.com/sunwupark)|Seungheon Han [BE]<br/>[@seungheon123](https://github.com/seungheon123)|
+
+</p>
