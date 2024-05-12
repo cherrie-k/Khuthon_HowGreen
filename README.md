@@ -4,7 +4,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 -------------
 <br>
 
-### 🍀 프로젝트 개요
+## 🍀 프로젝트 개요
 **해커톤 주제:** 
 - 환경과 소프트웨어: 지속가능한 지구와 인간사회를 위한 ESG 관점의 고찰
 
@@ -17,12 +17,12 @@ KHUTHON 2024 - 우수상 수상 🏆
 
 <br>
 
-### 💻 연계 백엔드 레포지토리
+## 💻 연계 백엔드 레포지토리
 - "[https://github.com/gitwub5/FastAPI_Server](https://github.com/gitwub5/FastAPI_Server)"
 
 <br>
 
-### ❓ 문제 정의
+## ❓ 문제 정의
 사회에 만연한 **그린워싱**으로 인해 소비자들이 친환경 제품들에 대한 의구심 증가와 투명한 제품·기업 정보에 대한 수요 증가
 
 
@@ -53,7 +53,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 
 <br>
 
-### 🌳 문제 해결 (프로젝트 기능)
+## 🌳 문제 해결 (프로젝트 기능)
 소비자들에게 제품과 관련된 투명한 친환경 정보를 제공함으로서 **녹색 소비**에 도움을 줌.
 
 
@@ -79,14 +79,14 @@ KHUTHON 2024 - 우수상 수상 🏆
 
 <br>
 
-### 🛠️ 프로젝트 아키텍쳐
+## 🛠️ 프로젝트 아키텍쳐
 <p align="center">
 <img src="https://github.com/cherrie-k/Khuthon_HowGreen/assets/80851202/0eb99764-1b0f-4725-97e5-10e5dd477a1b" width=82%>
 </p>
 
 <br>
 
-### 📸 프로젝트 화면
+## 📸 프로젝트 화면
 **메인 화면** - 상품 검색, 이전 검색 상품 조회
 <br>
 <p align="center">
@@ -121,7 +121,7 @@ KHUTHON 2024 - 우수상 수상 🏆
 
 </br>
 
-### 🫂 프로젝트 참여
+## 🫂 프로젝트 참여
 |<img src="https://avatars.githubusercontent.com/u/80851202?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/132264450?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/52268188?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/52253037?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
 |Cherrie Kim [FE]<br/>[@cherrie-k](https://github.com/cherrie-k)|GeonWoo Shin [BE, AI]<br/>[@gitwub5](https://github.com/gitwub5)|Sunwu Park [BE, AI]<br/>[@sunwupark](https://github.com/sunwupark)|Seungheon Han [BE]<br/>[@seungheon123](https://github.com/seungheon123)|
